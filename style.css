@@ -1,0 +1,13 @@
+@media (max-width: 576px){
+    p,ul{
+        text-align: center;
+    }
+}
+
+h1, .carousel, ul, footer{
+    margin: 20px 0px 20px 0px;
+}
+
+.card{
+    margin: auto;
+}
